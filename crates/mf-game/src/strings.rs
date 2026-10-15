@@ -61,7 +61,7 @@ pub struct Strings {
     pub sandbox_hint: &'static str,
     /// Explicit shareable seed (#140): new-game seed row label.
     pub seed: &'static str,
-    /// Prefix for the pause modal / load browser "Seed: 123" line — kept
+    /// Prefix for the pause modal / load browser "Seed: 123" line - kept
     /// separate from `seed` (the input row's label) since one needs a
     /// trailing colon/space and the other doesn't.
     pub seed_prefix: &'static str,
