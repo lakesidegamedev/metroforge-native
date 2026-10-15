@@ -17,14 +17,14 @@ boundaries and determinism guarantees.
 ## Install
 
 Prebuilt installers and archives for Windows, macOS (Apple Silicon), and Linux are
-published on the [GitHub Releases page](https://github.com/Egg3901/metroforge-native/releases).
+published on the [GitHub Releases page](https://github.com/lakesidegamedev/metroforge-native/releases).
 Each release includes the game executable and the bundled font license. No
 separate runtime to install.
 
 ### Windows
 
 1. Download `metroforge-<version>-windows-x64-setup.exe` from
-   [GitHub Releases](https://github.com/Egg3901/metroforge-native/releases).
+   [GitHub Releases](https://github.com/lakesidegamedev/metroforge-native/releases).
 2. Run the installer (Program Files, Start Menu shortcuts, Add/Remove Programs entry).
 3. Releases are not Authenticode-signed, so Windows Defender SmartScreen will usually
    warn on first run: click **More info**, then **Run anyway**.
@@ -41,7 +41,7 @@ shows the embedded version and icon.
 ### macOS
 
 1. Download the `.dmg` file from
-   [GitHub Releases](https://github.com/Egg3901/metroforge-native/releases).
+   [GitHub Releases](https://github.com/lakesidegamedev/metroforge-native/releases).
 2. Open the DMG and drag `MetroForge` to Applications.
 3. Releases are ad-hoc signed (not Developer ID / notarized). On first launch,
    **right-click** the app and select **Open** (a plain double-click is blocked).
@@ -52,7 +52,7 @@ shows the embedded version and icon.
 ### Linux
 
 1. Download `metroforge-<version>-linux-x64.tar.gz` from
-   [GitHub Releases](https://github.com/Egg3901/metroforge-native/releases).
+   [GitHub Releases](https://github.com/lakesidegamedev/metroforge-native/releases).
 2. Extract: `tar xzf metroforge-<version>-linux-x64.tar.gz`
 3. Run: `./metroforge` from the extracted directory.
 
